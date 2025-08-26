@@ -4,6 +4,9 @@ table,tr,th,td,thead{
 	border: 1px solid black;
 	
 }
+h2{
+	margin-bottom: 0px
+}
 table{
 	background-color: yellow;
 }
